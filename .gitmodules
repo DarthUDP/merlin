@@ -1,6 +1,4 @@
 [submodule "vendor/limine"]
 	path = vendor/limine
 	url = https://github.com/limine-bootloader/limine.git
-[submodule "vendor/llrt"]
-	path = vendor/llrt
-	url = https://github.com/DarthUDP/llrt
+	branch = v3.4.3
